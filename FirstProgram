@@ -5,3 +5,14 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/AmitG738/HelloWorldJava.git
 git push -u origin main
+
+
+// This is my first program. 
+
+class HelloWorld
+{
+public static void main(String args[])
+{
+System.out.println("\nHello world this is my first java program");
+}
+}
